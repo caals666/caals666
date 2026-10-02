@@ -24,8 +24,8 @@ My work often involves investigating backend infrastructure, evaluating tradeoff
 
 ## 🛠️ Technologies
 
-**Languages:** Java, Python
-**Backend:** Spring Boot, PostgreSQL, REST APIs
+**Languages:** Java, Python <br>
+**Backend:** Spring Boot, PostgreSQL, REST APIs <br>
 **Web:** React
 
 ---
