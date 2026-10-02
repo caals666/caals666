@@ -32,7 +32,7 @@ My work often involves investigating backend infrastructure, evaluating tradeoff
 
 ## 🎓 Education
 
-B.E. Computer Science — Neil Gogte College of Engineering (Expected 2029)  
+B.E. Computer Science — Neil Gogte Institute of Technology (Expected 2029)  
 Harvard CS50x (2025)
 
 ---
